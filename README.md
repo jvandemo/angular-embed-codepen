@@ -1,11 +1,19 @@
 # Embed codepen pens in AngularJS apps
 
 Easily embed [codepen](http://codepen.io/) pens in your AngularJS application.
+
+[![Build Status](https://travis-ci.org/jvandemo/angular-embed-codepen.svg?branch=master)](https://travis-ci.org/jvandemo/angular-embed-codepen)
+
+![black-small](https://cloud.githubusercontent.com/assets/1859381/5514775/a4dda894-884a-11e4-8e07-9f1820a1e5f3.png)
+
+## Key features
  
 - no custom markup required!
 - simply paste the original codepen embed code in your markup
 - supports multiple pens per page
+- support state changes so pens load correctly when the view changes
 - no additional scripting required, works out-of-the-box!
+
 
 ## Usage
 
