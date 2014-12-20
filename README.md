@@ -4,7 +4,7 @@ Easily embed [codepen](http://codepen.io/) pens in your AngularJS application.
 
 [![Build Status](https://travis-ci.org/jvandemo/angular-embed-codepen.svg?branch=master)](https://travis-ci.org/jvandemo/angular-embed-codepen)
 
-![black-small](https://cloud.githubusercontent.com/assets/1859381/5514775/a4dda894-884a-11e4-8e07-9f1820a1e5f3.png)
+![codepen](https://cloud.githubusercontent.com/assets/1859381/5514782/2ab0fd2c-884b-11e4-8210-3b536b0f183c.png)
 
 ## Key features
  
