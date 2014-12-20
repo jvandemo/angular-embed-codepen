@@ -60,6 +60,11 @@ gulp test
 
 ## Change log
 
+### v1.1.0
+
+- add travis support
+- update documentation
+
 ### v1.0.0
 
 - refactor to support original markup
