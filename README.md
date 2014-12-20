@@ -55,7 +55,7 @@ $ gulp
 To run the unit tests (for both concatenated and minified version):
 
 ```bash
-gulp test
+$ gulp test
 ```
 
 ## Change log
