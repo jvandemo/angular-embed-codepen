@@ -42,7 +42,9 @@ There is no need to include the
 ```javascript
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 ```
-line that comes with the original embed code. You can just remove that line from your markup (after pasting the embed code) and it will all magically work.
+line that comes with the original embed code. You can just remove that line from your markup (after pasting the embed code) and it will all magically work:
+
+![output](https://cloud.githubusercontent.com/assets/1859381/5514822/100187ba-884d-11e4-9fcb-f67ad109c0e7.png)
 
 ## Contribute
 
