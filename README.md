@@ -1,4 +1,4 @@
-# Embed codepen pens in your AngularJS app
+# Embed codepen pens in AngularJS apps
 
 Easily embed [codepen](http://codepen.io/) pens in your AngularJS application.
  
