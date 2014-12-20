@@ -12,6 +12,7 @@ Easily embed [codepen](http://codepen.io/) pens in your AngularJS application.
 - support state changes so pens load correctly when the view changes
 - no additional scripting required, works out-of-the-box!
 
+Check out the [online demo](http://codepen.io/jvandemo/pen/82c2d5d3cad64b0f028610d1771b5e79).
 
 ## Usage
 
