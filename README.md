@@ -1,4 +1,4 @@
-# Embed codepen in your AngularJS application
+# Embed codepen pens in your AngularJS app
 
 Easily embed [codepen](http://codepen.io/) pens in your AngularJS application.
  
@@ -35,6 +35,20 @@ There is no need to include the
 line that comes with the original embed code.
 
 You can just remove that line from your markup (after pasting the embed code) and it will all magically work.
+
+## Contribute
+
+To update the build in the `dist` directory:
+
+```bash
+$ gulp
+```
+
+To run the unit tests (for both concatenated and minified version):
+
+```bash
+gulp test
+```
 
 ## Change log
 
