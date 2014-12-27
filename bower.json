@@ -1,6 +1,6 @@
 {
   "name": "angular-embed-codepen",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "authors": [
     {
       "name": "Jurgen Van de Moere",
@@ -11,7 +11,9 @@
   "ignore": [
     "src",
     "test",
-    "Gruntfile.js",
+    "gulpfile.js",
+    "karma-dist-concatenated.conf.js",
+    "karma-dist-minified.conf.js",
     "**/.*"
   ],
   "dependencies": {
