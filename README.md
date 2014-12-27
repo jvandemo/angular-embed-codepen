@@ -6,6 +6,7 @@ Easily embed [codepen](http://codepen.io/) pens in your AngularJS application.
 
 ![codepen](https://cloud.githubusercontent.com/assets/1859381/5514782/2ab0fd2c-884b-11e4-8210-3b536b0f183c.png)
 
+- lightweight (< 1.2 KB)
 - no custom markup required!
 - simply paste the original codepen embed code in your markup
 - supports multiple pens per page
